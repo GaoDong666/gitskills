@@ -6,3 +6,4 @@
 
 # GIT
 ## What is git?
+Git is git.
