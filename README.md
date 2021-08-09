@@ -3,3 +3,6 @@
    Gitskills are some skills of git.
 ## How is gitskills?
    Gitskills are useful.
+
+# GIT
+## What is git?
